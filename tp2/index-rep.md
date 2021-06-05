@@ -35,14 +35,14 @@
         hr {
             margin: 15px 0 15px 0;
         }
-		
-		applet {
-			margin: 10px 0px 25px 250px;
-			border-width: 1px;
-			border-style: solid;
-			border-color: #777777;
-		}
-		
+        
+        applet {
+            margin: 10px 0px 25px 250px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #777777;
+        }
+        
     </style>
 
 </head>
@@ -76,7 +76,7 @@
     <hr />
     <h3>Question 1 : canversion Fahrenheit - Celsius</h3>
     Votre réponse...
-		
+        
     <hr />
     <h3>Question 1.1 : classe de test</h3>
     Votre réponse...
@@ -89,8 +89,8 @@
     <br />
     <hr />
     <h3>Question 3 :</h3>
-	<applet code="question3.AppletteFahrenheit.class" align="baseline" width="400" height="66"><PARAM name="backgroundColor" value="0xc0c0c0"></applet>
-	<h1><P align=center>L'applette complétée</p></h1>
+    <applet code="question3.AppletteFahrenheit.class" align="baseline" width="400" height="66"><PARAM name="backgroundColor" value="0xc0c0c0"></applet>
+    <h1><P align=center>L'applette complétée</p></h1>
     <br />
     <hr />
     <h3>Question 3.1 :</h3>
@@ -110,7 +110,7 @@
     <hr />
     <h3>Question 3.4 :</h3>
     Votre réponse...
-	
+    
     <br />
     <hr />    
         <h3>Conclusion, biliographie et remarques :</h3>
